@@ -1,1 +1,1 @@
-Bacula NOVO
+Scripts para administração do Bacula
